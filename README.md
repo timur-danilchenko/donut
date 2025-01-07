@@ -1,6 +1,11 @@
 # Project: donut
+### Installation
+1. Clone the repository
+```shell
+git clone https://github.com/timur-danilchenko/donut
+```
 ### Usage
-Use command below to start rotating donut in console
+1. Run the application. Use command below to run
 ```shell
 make
 ```
